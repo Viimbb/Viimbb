@@ -28,10 +28,10 @@
   <img align="center" alt="Vi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
  
  <h3>⚙️ &nbsp;Banco de dados:</h3>
+<img align="center" alt="Vi-oracle" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 
-  <img align="center" alt="Vi-oracle" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+[![APEX ](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/vitoria/apex-github-badges) 
+
           
-            
-          
-          
+                  
    ##
