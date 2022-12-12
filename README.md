@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-  ##
  
 <div> 
   <a href="https://instagram.com/_viimb" target="_blank"><img src="" target="_blank"></a>
